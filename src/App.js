@@ -43,7 +43,7 @@ function App() {
           onChange={updateSearch}
         />
         <button className='search-button' type='submit'>
-          Search
+          Search by Item
         </button>
       </form>
       <div className='recipes'>
